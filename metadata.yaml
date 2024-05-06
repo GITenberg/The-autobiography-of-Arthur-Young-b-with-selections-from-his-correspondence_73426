@@ -1,0 +1,47 @@
+_repo: The-autobiography-of-Arthur-Young-b-with-selections-from-his-correspondence_73426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, Arthur
+    alias: Young, Artur
+    birthdate: 1741
+    deathdate: 1820
+    gutenberg_agent_id: '6120'
+    url: http://www.gutenberg.org/2009/agents/6120
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arthur_Young_(agriculturist)
+    - https://fr.wikipedia.org/wiki/Arthur_Young
+  editor:
+    agent_name: Betham-Edwards, Matilda
+    aliases:
+    - Betham-Edwards, Matilda Barbara
+    - Betham-Edwards, M.
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '2866'
+    url: http://www.gutenberg.org/2009/agents/2866
+    wikipedia: https://en.wikipedia.org/wiki/Matilda_Betham-Edwards
+description: ''
+gutenberg_issued: '2024-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73426'
+  lccn: '04017212'
+language: en
+pgterms:marc905: 20050528183826young
+pgterms:marc906: '1898'
+pgterms:marc907: UK
+production_note: Andrew Sly, MFR, KD Weeks and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bSmith, Elder & Company, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculturists -- Biography'
+- !lcsh 'Young, Arthur, 1741-1820'
+- !lcc 'S'
+- GITenberg
+title: 'The autobiography of Arthur Young : $b with selections from his correspondence'
+url: http://www.gutenberg.org/ebooks/73426
